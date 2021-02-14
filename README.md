@@ -14,4 +14,6 @@ Being a member of the club you have:
   * Tech friends, ready to help you out when needed
   * Money from the fund, if you have a good idea or need help
 
+If the majority votes, a member can be excluded from the club.
+
 Text me in Telegram if interested: [@yegor256](https://t.me/yegor256).
