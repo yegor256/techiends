@@ -1,4 +1,4 @@
-Techiends is a private club of "tech friends".
+**Techiends** is a private club of "tech friends".
 
 To join the club you have to 1) write up a one-page essay about yourself
 and your strategic goals, 2) pass a one-hour interview with a
