@@ -10,9 +10,9 @@ The money goes to the joint fund (in Bitcoins).
 
 Being a member of the club you have:
 
-  * A mentor, helping you point your career to the direction
+  * A mentor, helping you point your career to the right direction
   * Tech friends, ready to help you out when needed
-  * Money from the fund, if you have a good idea or need help
+  * Money from the fund, if you have a good idea or just need help
 
 If the majority votes, a member can be excluded from the club.
 
